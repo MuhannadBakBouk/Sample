@@ -1,0 +1,24 @@
+{"status": "ok",
+    "code" : "200",
+   "totalResults": 3,
+   "coaches": [
+       {
+
+           "challenge": "To 1",
+           "name": "mohannad bakbouk",
+           "description": "Depending upon who you talk to, cryptocurrency is all the rage, a Ponzi scheme or yet another energy-consuming scourge on the environment. (See tweets by Elon Musk from mid-May 2021, citing the environmental impact of bitcoin transactions for Tesla's decision…",
+           "urlToImage": "https://www.reuters.com/resizer/mDjQYBnitP_a_uKIL8Kh_Hz5Iww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZIEFAHPYZNTBK2DBAT7THTKCQ.jpg",
+           "overview": "January 24, 2022 - Depending upon who you talk to, cryptocurrency is all the rage, a Ponzi scheme or yet another energy-consuming scourge on the environment. (See tweets by Elon Musk from mid-May 202… [+10597 chars]",
+           "level" : "Intermediate",
+           "rate" : "4.9"
+       },
+       {
+           "challenge": "To 2",
+           "name": "Dina Homsiy",
+           "description": "Depending upon who you talk to, cryptocurrency is all the rage, a Ponzi scheme or yet another energy-consuming scourge on the environment. (See tweets by Elon Musk from mid-May 2021, citing the environmental impact of bitcoin transactions for Tesla's decision…",
+           "level" : "Advanced",
+           "rate" : "4.6",
+           "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+           "overview": "** Shares of cryptocurrency and blockchain-related firms fall after bitcoin briefly slides below $40,000 to a 5-month low\r\n** The world's largest digital asset was last down 2.6% at $40,800 after fal… [+1132 chars]"
+       }]
+}
